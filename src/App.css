@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+body {
+  background-color: #1e1e2f;  /* dark background */
+  margin: 0;
+  padding: 0;
+}
+.search-input {
+  padding: 12px;
+  margin: 20px auto;
+  width: 300px;
+  display: block;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+h2{
+  color: rgb(126, 50, 203);
+}
+.container p{
+  color: rgb(29, 140, 140);
+}
